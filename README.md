@@ -1,4 +1,4 @@
 # A2WPD
 
-Initial Angular Webpack Setup following Angular Documantaion found on
+Initial Angular 2 Webpack Setup following Angular Documentaion, found on
 https://angular.io/docs/ts/latest/guide/webpack.html

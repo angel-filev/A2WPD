@@ -9,7 +9,7 @@ describe('a2-cli App', function() {
 
   it('should display message saying Hello from Angular App with Webpack', () => {
     page.navigateTo();
-    expect(page.getParagraphText()).toEqual('Hello from Angular App with Webpack!!!!!');
+    expect(page.getParagraphText()).toEqual('Hello from Angular App with Webpack');
   });
 
 });
